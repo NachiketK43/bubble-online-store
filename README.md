@@ -56,6 +56,46 @@ Minimalistic eCommerce store built on Bubble.io that allows users to manage prod
 
 ---
 
+## Screenshots
+
+### Cart Overview Page  
+![Cart Overview Page](screenshots/Cart%20Overview%20Page.png)
+
+### Cart Overview Page (Bubble Editor)  
+![Cart Overview Page (Bubble Editor)](screenshots/Cart%20Overview%20Page%20%28Bubble%20Editor%29.png)
+
+### Cart Overview Page Workflows  
+![Cart Overview Page Workflows](screenshots/Cart%20Overview%20Page%20Workflows.png)
+
+### Orders Page  
+![Orders Page](screenshots/Orders%20Page.png)
+
+### Orders Page (Bubble Editor)  
+![Orders Page (Bubble Editor)](screenshots/Orders%20Page%20%28Bubble%20Editor%29.png)
+
+### Orders Page Workflows  
+![Orders Page Workflows](screenshots/Orders%20Page%20Workflows.png)
+
+### Products Page  
+![Products Page](screenshots/Products%20Page.png)
+
+### Products Page (Bubble Editor)  
+![Products Page (Bubble Editor)](screenshots/Products%20Page%20%28Bubble%20Editor%29.png)
+
+### Products Page Workflows  
+![Products Page Workflows](screenshots/Products%20Page%20Workflows.png)
+
+### Storefront Page  
+![Storefront Page](screenshots/Storefront%20Page.png)
+
+### Storefront Page (Bubble Editor)  
+![Storefront Page (Bubble Editor)](screenshots/Storefront%20Page%20%28Bubble%20Editor%29.png)
+
+### Storefront Page Workflows  
+![Storefront Page Workflows](screenshots/Storefront%20Page%20Workflows.png)
+
+---
+
 ## Future Improvements
 
 - Add user authentication to tie orders to customer profiles
