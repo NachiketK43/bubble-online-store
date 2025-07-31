@@ -26,7 +26,7 @@ Minimalistic eCommerce store built on Bubble.io that allows users to manage prod
 - Every row has toggle to mark the product as visible/invisible on the storefront
 - Products can be removed from the store
 - New products can be added via "Add New Product" button which opens a form where users can input product title, description, upload image, and set unit price
-- New products are hidden by default unless toggled on.
+- Newly products are by default not added to storefront unless toggled on.
 <br>
 
 
@@ -49,8 +49,17 @@ Minimalistic eCommerce store built on Bubble.io that allows users to manage prod
 <br>
 
 
-**Orders Page (Admin Order Tracking)**
+ **Orders Page (Admin Order Tracking)**
 - Table layout showcasing all recent orders
 - Each row includes: order number; customer name, email address, and shipping address; list of products with quantities; total price of the order; order status displayed with color-coded labels
 - Dropdown filter offers filtering through orders based on their order status
+
+---
+
+## Future Improvements
+
+- Add user authentication to tie orders to customer profiles
+- Implement separate signup flows for buyers and sellers, enabling role-based access
+- Seamlessly populate the cart with items added from the storefront, display them in the Cart Overview page, and calculate order totals for a complete checkout experience
+- Integrate Stripe for real-time payment processing
 
