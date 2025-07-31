@@ -103,3 +103,20 @@ Minimalistic eCommerce store built on Bubble.io that allows users to manage prod
 - Seamlessly populate the cart with items added from the storefront, display them in the Cart Overview page, and calculate order totals for a complete checkout experience
 - Integrate Stripe for real-time payment processing
 
+---
+
+## Notes
+This project is part of a curated **Bubble Developer Portfolio** built for learning purposes.
+
+---
+
+## Creator
+
+**Nachiket Karhade**  
+No-Code Builder| Bubble Developer
+<br>
+🔗 [GitHub](https://github.com/NachiketK43) 
+<br>
+
+
+---
