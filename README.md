@@ -13,6 +13,7 @@ Minimalistic eCommerce store built on Bubble.io that allows users to manage prod
 
 ## Demo App Link
 🔗 [Click to view demo app](https://savoir-61748.bubbleapps.io/version-test/products)
+_(Right-click or Cmd/Ctrl+Click to open in a new tab)_
 
 ⚠️ Data may reset periodically.
 
