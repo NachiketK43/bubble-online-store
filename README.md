@@ -36,7 +36,7 @@ _(Right-click or Cmd/Ctrl+Click to open in a new tab)_
 - Each product card displays: Product image, title, description, and price.
 - Each product card also displays and "Add to Cart" icon that opens a quantity selector using which quantity of item can be increased or decreased
 - Live Search Filter compares keywords against product titles and descriptions and displays partial as well as complete matches
-- Price Range Filter lets user define minimum or maximum price limits or define both values to dispaly products whose unit price falls within the selected price range
+- Price Range Filter lets user define minimum or maximum price limits or define both values to display products whose unit price falls within the selected price range
 - Clear button resets all filters and shows the full list of available products in store
 - Cart counter in the header updates in real-time based on items added or removed.
 <br>
